@@ -1,0 +1,14 @@
+git config --global user.mail "paramrrishi16@gmail.com"
+git config --global user.name "Rushit parmar"
+
+git inti
+git add [filename] -A
+git commit -m "msg"
+git remote add origin svnpath
+git push origin master
+git clone path
+git pull origin master
+
+
+git branch test1
+git checkout branch_name
